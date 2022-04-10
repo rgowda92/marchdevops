@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "created branch hemanth"
+echo "created branch hemanth merge conflit"
